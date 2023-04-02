@@ -1,0 +1,14 @@
+List of CLB Tiles
+CLEL_R_X32Y171
+CLEM_X33Y169
+CLEM_X5Y318
+CLEL_R_X5Y318
+
+List of Congested Nets
+design_1_i/emax6_0/inst/EMAX6_UNIT[7].mux_top_buf/queue_reg[0][341]_0[18]
+design_1_i/emax6_0/inst/EMAX6_UNIT[7].mux_top_buf/queue_reg[0][341]_0[20]
+design_1_i/emax6_0/inst/EMAX6_UNIT[7].mux_top_buf/queue_reg[0][341]_0[3]
+design_1_i/emax6_0/inst/EMAX6_UNIT[7].unit/regv_ear1_reg_n_0_[136]
+design_1_i/emax6_0/inst/EMAX6_UNIT[5].unit/stage4_inst/lmm/ftag__0[8]
+design_1_i/emax6_0/inst/EMAX6_UNIT[5].unit/stage4_inst/lmm/ftag__0[6]
+

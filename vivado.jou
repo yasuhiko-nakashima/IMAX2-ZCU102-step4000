@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2018.3.1 (64-bit)
+# SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+# IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+# Start of session at: Fri Mar 31 16:33:57 2023
+# Process ID: 20894
+# Current directory: /home/nakashim/proj-arm64/fpga/ZCU102-step4000
+# Command line: vivado -stack 10000 OLD.xpr
+# Log file: /home/nakashim/proj-arm64/fpga/ZCU102-step4000/vivado.log
+# Journal file: /home/nakashim/proj-arm64/fpga/ZCU102-step4000/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project OLD.xpr
+open_bd_design {/home/nakashim/proj-arm64/fpga/ZCU102-step4000/OLD.srcs/sources_1/bd/design_2/design_2.bd}
+update_compile_order -fileset sources_1
